@@ -1,18 +1,18 @@
-# 2SecondRouteFinder
-My app source ( 2 second Route Finder )
+<h1>[2SecondRouteFinder] 간편 2초 경로탐색기</h1>
+<pre>
+  <h3>Personal project [2022-7 ~ 2022-7]</h3>
+
+<p>If you press where you want to go for 2 seconds, it tells you the route in an easy-to-read Korean format and shows you a simple polyline. When I was traveling in Thailand, there was a place I wanted to go nearby, but I didn't know how to get there, and I made it because I was frustrated with the uneven intervals of the buses.</p>
+
+<p>android deployed</p>
+
+</pre>
+  <hr/>
+  <p>android
+  googlemap api</p>
+  <pre>
+
+</pre>
 
 
-updated resource file contain not stable code.
-that word 'not stable' mean.. all functions don't work completly as you think a well made function..!
-
-
-
-1. Have to draw more exactly polyline.  
-  (now just draw strictly line. not flexble line base on api information from googlemap api)
   
-  using Parsing. already have gps data from googlemap api.
-  
-  
- 2. Have to complete Search function as other normal app using map api. (kakao map, t map .. etc:))
- 
-   same. using google map api.
