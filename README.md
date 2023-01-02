@@ -11,7 +11,7 @@
   
   <pre>
 android
-  googlemap api
+googlemap api
 </pre>
 
 
