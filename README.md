@@ -7,8 +7,8 @@
 <p>I registered in the playstore at the time and recorded more than 100 downloads. Since then, the personal information processing regulations have changed and the distribution has been suspended.</p>
 </pre>
   <hr/>
-  <p>android
-  googlemap api</p>
+  android
+  googlemap api
   <pre>
 
 </pre>
